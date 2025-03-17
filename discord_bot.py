@@ -74,4 +74,4 @@ async def stand(ctx):
     else:
         await ctx.send("It's a tie!")
 
-bot.run('your-token-here')
+bot.run('MTM1MTA0MjQzNzk1ODg2MDgwMA.Gwf4Gk.El6jJST2F_wVF22hktjXLfaIkCQ8WICqGxbf5o')
